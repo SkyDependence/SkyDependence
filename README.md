@@ -3,7 +3,7 @@
 
 <h3 align="center">
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skydependence)](https://github.com/anuraghazra/github-readme-stats)
-</h3 align="center">
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skydependence" alt="skydependence" /></a> </p>
 
