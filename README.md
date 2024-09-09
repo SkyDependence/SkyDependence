@@ -52,9 +52,7 @@
 </a>
 <a href='https://www.mysql.com/' target='_ blank' rel=noreferrer'> 
 <img src='https:/raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg' alt=mysql width=50 height=50 style='margin-right:10px;'/></p>
-
-
-查看全部
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skydependence&" alt="skydependence" /></p>
 
