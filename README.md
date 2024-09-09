@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=skydependence" alt="Anurag's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=skydependence" alt="Anurag's GitHub stats" width=100 />
   </a>
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skydependence&" alt="skydependence" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skydependence&" alt="skydependence" width=100 />
   </a>
 </p>
 
