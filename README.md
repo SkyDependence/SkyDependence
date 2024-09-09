@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm a student who is learning Java
+### I'm a student who is learning Java
 
 <!--
 **SkyDependence/SkyDependence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
