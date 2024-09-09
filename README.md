@@ -7,7 +7,6 @@
   </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skydependence" alt="skydependence" /></a> </p>
 
 - 🌱 I’m currently learning **Spring boot**
 
@@ -51,7 +50,7 @@
 <img src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg' alt=redis width=50 height=50 style='margin-right:10px;'/>
 </a>
 <a href='https://www.mysql.com/' target='_ blank' rel=noreferrer'> 
-<img src='https:/raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg' alt=mysql width=50 height=50 style='margin-right:10px;'/></p>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg' alt=mysql width=50 height=50 style='margin-right:10px;'/></p>
 </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skydependence&" alt="skydependence" /></p>
