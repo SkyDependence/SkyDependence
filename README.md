@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm SkyDev</h1>
 <h3 align="center">A student who is learning Java</h3>
 
-<h3 align="center">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skydependence)](https://github.com/anuraghazra/github-readme-stats)
-</h3>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=skydependence" alt="Anurag's GitHub stats" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skydependence" alt="skydependence" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skydependence" alt="skydependence" /></a> </p>
 
 - 🌱 I’m currently learning **Spring boot**
 
