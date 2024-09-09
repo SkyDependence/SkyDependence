@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SkyDev</h1>
 <h3 align="center">A student who is learning Java</h3>
 
-<div align="center">
+<h3 align="center">
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skydependence)](https://github.com/anuraghazra/github-readme-stats)
-</div align="center">
+</h3 align="center">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skydependence" alt="skydependence" /></a> </p>
 
