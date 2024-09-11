@@ -1,14 +1,23 @@
 <h1 align="center">Hi 👋, I'm SkyDev</h1>
 <h3 align="center">A student who is learning Java</h3>
 
-s=<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-basis: 40%; flex-grow: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=skydependence" alt="Anurag's GitHub stats" style="width: 100%;"/>
-  </a>
-  <a style="flex-basis: 44%; flex-grow: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=skydependence&" alt="skydependence" style="width: 100%;"/>
-  </a>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=skydependence" alt="Anurag's GitHub stats" width="400px"/>
+        </a>
+      </td>
+      <td>
+        <a>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=skydependence&" alt="skydependence" width="440px"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 
 - 🌱 I’m currently learning **Spring boot**
