@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm SkyDev</h1>
-<h3 align="center">A student who is learning Java</h3>
+# Hi 👋, I'm SkyDev
+
+A student who is learning Java ![visitors](https://visitor-badge.laobi.icu/badge?page_id=skydependence.skydependence)
+
+---
 
 <p align="center">
   <table>
@@ -18,26 +21,26 @@
   </table>
 </p>
 
-
+---
 
 - 🌱 I’m currently learning **Spring boot**
+- 💎 How to reach me **i@skydevs.link**
 
-- 📫 How to reach me **i@skydevs.link**
+---
 
+## Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h4>Programming Languages</h4>
+### Programming Languages
 <p align="left" style="display: flex; flex-wrap: wrap;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style='margin-right: 10px;'/>
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height ="50 "style='margin-right: 10px;'/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style='margin-right: 10px;'/>
   </a>
 </p>
 
-<h4>Development Tools</h4>
+### Development Tools
 <p align="left" style="display: flex; flex-wrap: wrap;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin-right: 10px;"/>
@@ -53,7 +56,7 @@
   </a>
 </p>
 
-<h4>Databases & Others</h4>
+### Databases & Others
 <p align="left" style="display: flex; flex-wrap: wrap;">
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50" style="margin-right:10px;"/>
