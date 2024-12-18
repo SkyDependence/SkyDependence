@@ -69,3 +69,5 @@ Currently, I'm focusing on improving my skills in **Java**, **Spring Boot**, and
 - [tgDrive](https://github.com/skydependence/tgdrive)
 - [getFollow](https://github.com/skydependence/getfollowing)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyDependence&layout=compact&theme=radical)
+
